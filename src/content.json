@@ -35,20 +35,28 @@
             "name": "Wealth SaGa",
             "achievements": [
                 "Wealth SaGa is an edTech platform where users can learn about Indian Stock Market",
-                "Tech Stack : React Native, MongoDB, Express, NodeJS, Docker, AWS, Paytm Payments Gateway, Material UI v4 (for admin panel),Winston",
+                "Tech Stack         : React Native, MongoDB, Express, NodeJS, Docker, AWS, Paytm Payments Gateway, Material UI v4 (for admin panel),Winston",
                 "Supported Platform : Android",
-                "My Contribution : built from scratch except AWS Deployment",
-                "Take a look on google play store - Wealth SaGa"
-            ]
+                "My Contribution    : built from scratch except AWS Deployment",
+                "Project Status     : Under Development"
+            ],
+            "link": {
+                "text": "Wealth SaGa",
+                "href": "https://play.google.com/store/apps/details?id=com.ivit.sourav.ws&hl=en_IN&gl=US"
+            }
         },
         {
             "name": "In Memory Of You",
             "achievements": [
                 "A Social Media Platform to organize funeral Events",
                 "Supported Platform : Web",
-                "My Contribution : Developing frontend components",
-                "Take a look: https://dev.imoy.org/login"
-            ]
+                "My Contribution    : Developing frontend components",
+                "Project Status     : Under Development"
+            ],
+            "link": {
+                "text": "In Memory Of You",
+                "href": "https://dev.imoy.org/login"
+            }
         },
         {
             "name": "Hostbidable",
@@ -56,7 +64,8 @@
                 "Hostbidable is an online property bidding platform where the property owner can sell their property to an appropriate buyer via auction hosted by some host",
                 "Tech Stack : Javascript,React Native, MongoDB, Express, NodeJS, Docker, AWS, Stripe Gateway, React Native Paper (for App UI), React Strap (for admin panel)",
                 "Supported Platform : Android and IOS",
-                "My Contribution : Application Frontend from scratch"
+                "My Contribution : Application Frontend from scratch",
+                "Project Status     : Under Development"
             ]
         },
         {
@@ -65,17 +74,23 @@
                 "An E-commerce platform where users can buy all types of products including food items",
                 "Tech Stack : Javascript, React Native, MongoDB, Express, NodeJS, Docker, AWS, Rayzorpay Gateway, Ant Design (for admin panel), Winston",
                 "Supported Platform : Android",
-                "My Contribution : Mobile App Frontend from scratch"
+                "My Contribution : Mobile App Frontend from scratch",
+                "Project Status     : Under Development"
             ]
         },
         {
             "name": "Ordio",
             "achievements": [
                 "A NextJS website with a support of internationalization",
-                "Tech Stack : Javascript, React JS, Next JS, Bootstrap",
+                "Tech Stack         : Javascript, React JS, Next JS, Bootstrap",
                 "Supported Platform : Web",
-                "My Contribution : testing code and resolve errors"
-            ]
+                "My Contribution    : testing code and resolve errors",
+                "Project Status     : Completed"
+            ],
+            "link": {
+                "text": "ordio.com",
+                "href": "https://www.ordio.com/"
+            }
         },
         {
             "name": "Recrugenie",
@@ -83,8 +98,13 @@
                 "MERN Stack Website similar to quikr, where users can book professionals like plumber, electrician etc.",
                 "Tech Stack : Javascript, React JS, Node JS, Express",
                 "Supported Platform : Web",
-                "My Contribution : Fixing bugs and adding new features in already deployed website"
-            ]
+                "My Contribution : Fixing bugs and adding new features in already deployed website",
+                "Project Status     : Completed"
+            ],
+            "link": {
+                "text": "recrugenie.com",
+                "href": "https://www.recrugenie.com/"
+            }
         },
         {
             "name": "Fly High",
@@ -92,7 +112,8 @@
                 "An edTech Platform built using Ionic Framework where users can buy courses and take live classes backed by Agora APi",
                 "Tech Stack : Javascript, React JS, Node JS, Express, Agora Live Streaming Service, Rayzorpay Gateway, AWS, Material UI",
                 "Supported Platform : Android",
-                "My Contribution : App Frontend"
+                "My Contribution    : App Frontend and integration with Agora IO",
+                "Project Status     : Completed"
             ]
         }
     ],
