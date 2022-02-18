@@ -16,11 +16,11 @@ const Projects = () => (
 
         <Grid item xs={12}>
             {Content.projects.map((project, i) => (
-                <Grid item xs={12} key={i}>
+                <Grid item xs={12} mb={1} key={i}>
                     {i === 3 && (
                         <Fragment>
                             {
-                                new Array(12).fill("").map((_, i) => (
+                                new Array(8).fill("").map((_, i) => (
                                     <br key={i} />
                                 ))
                             }

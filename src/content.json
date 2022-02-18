@@ -38,7 +38,8 @@
                 "Tech Stack         : React Native, MongoDB, Express, NodeJS, Docker, AWS, Paytm Payments Gateway, Material UI v4 (for admin panel),Winston",
                 "Supported Platform : Android",
                 "My Contribution    : built from scratch except AWS Deployment",
-                "Project Status     : Under Development"
+                "Project Status     : Completed",
+                "Project Timeline   : sep 2021 - dec 2021"
             ],
             "link": {
                 "text": "Wealth SaGa",
@@ -51,7 +52,8 @@
                 "A Social Media Platform to organize funeral Events",
                 "Supported Platform : Web",
                 "My Contribution    : Developing frontend components",
-                "Project Status     : Under Development"
+                "Project Status     : Under Development",
+                "Project Timeline   : may 2021 - present"
             ],
             "link": {
                 "text": "In Memory Of You",
@@ -62,20 +64,22 @@
             "name": "Hostbidable",
             "achievements": [
                 "Hostbidable is an online property bidding platform where the property owner can sell their property to an appropriate buyer via auction hosted by some host",
-                "Tech Stack : Javascript,React Native, MongoDB, Express, NodeJS, Docker, AWS, Stripe Gateway, React Native Paper (for App UI), React Strap (for admin panel)",
+                "Tech Stack         : Javascript,React Native, MongoDB, Express, NodeJS, Docker, AWS, Stripe Gateway, React Native Paper (for App UI), React Strap (for admin panel)",
                 "Supported Platform : Android and IOS",
-                "My Contribution : Application Frontend from scratch",
-                "Project Status     : Under Development"
+                "My Contribution    : Application Frontend from scratch",
+                "Project Status     : Under Development",
+                "Project Timeline   : sep 2021 - present"
             ]
         },
         {
             "name": "Martcues",
             "achievements": [
                 "An E-commerce platform where users can buy all types of products including food items",
-                "Tech Stack : Javascript, React Native, MongoDB, Express, NodeJS, Docker, AWS, Rayzorpay Gateway, Ant Design (for admin panel), Winston",
+                "Tech Stack         : Javascript, React Native, MongoDB, Express, NodeJS, Docker, AWS, Rayzorpay Gateway, Ant Design (for admin panel), Winston",
                 "Supported Platform : Android",
-                "My Contribution : Mobile App Frontend from scratch",
-                "Project Status     : Under Development"
+                "My Contribution    : Mobile App Frontend from scratch",
+                "Project Status     : Under Development",
+                "Project Timeline   : nov 2021 - present"
             ]
         },
         {
@@ -85,7 +89,8 @@
                 "Tech Stack         : Javascript, React JS, Next JS, Bootstrap",
                 "Supported Platform : Web",
                 "My Contribution    : testing code and resolve errors",
-                "Project Status     : Completed"
+                "Project Status     : Completed",
+                "Project Timeline   : apr 2021 - may 2021"
             ],
             "link": {
                 "text": "ordio.com",
@@ -96,9 +101,9 @@
             "name": "Recrugenie",
             "achievements": [
                 "MERN Stack Website similar to quikr, where users can book professionals like plumber, electrician etc.",
-                "Tech Stack : Javascript, React JS, Node JS, Express",
+                "Tech Stack         : Javascript, React JS, Node JS, Express",
                 "Supported Platform : Web",
-                "My Contribution : Fixing bugs and adding new features in already deployed website",
+                "My Contribution    : Fixing bugs and adding new features in already deployed website",
                 "Project Status     : Completed"
             ],
             "link": {
@@ -113,7 +118,8 @@
                 "Tech Stack : Javascript, React JS, Node JS, Express, Agora Live Streaming Service, Rayzorpay Gateway, AWS, Material UI",
                 "Supported Platform : Android",
                 "My Contribution    : App Frontend and integration with Agora IO",
-                "Project Status     : Completed"
+                "Project Status     : Completed",
+                "Project Timeline   : jan 2021 - apr 2021"
             ]
         }
     ],
