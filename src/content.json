@@ -1,187 +1,187 @@
 {
-    "skills": {
-        "primary": [
-            "Javascript",
-            "Node JS",
-            "Mongo DB",
-            "React JS",
-            "Redux",
-            "Next JS",
-            "React Native",
-            "HTML5",
-            "CSS3",
-            "Material UI",
-            "Ant Design",
-            "MERN Stack",
-            "Express JS",
-            "Bootstrap",
-            "Git",
-            "Github",
-            "Good in google search"
-        ],
-        "secondary": [
-            "Flask (Python)",
-            "Python",
-            "TypeScript",
-            "PostgreSQL",
-            "PWA",
-            "JIRA",
-            "Some exposure with AWS",
-            "Adobe Suite"
-        ]
-    },
-    "projects": [
-        {
-            "name": "Wealth SaGa",
-            "achievements": [
-                "Wealth SaGa is an edTech platform where users can learn about Indian Stock Market",
-                "Tech Stack         : React Native, MongoDB, Express, NodeJS, Docker, AWS, Paytm Payments Gateway, Material UI v4 (for admin panel),Winston",
-                "Supported Platform : Android",
-                "My Contribution    : built from scratch except AWS Deployment",
-                "Project Status     : Completed",
-                "Project Timeline   : sep 2021 - dec 2021"
-            ],
-            "link": {
-                "text": "Wealth SaGa",
-                "href": "https://play.google.com/store/apps/details?id=com.ivit.sourav.ws&hl=en_IN&gl=US"
-            }
-        },
-        {
-            "name": "In Memory Of You",
-            "achievements": [
-                "A Social Media Platform to organize funeral Events",
-                "Supported Platform : Web",
-                "My Contribution    : Developing frontend components",
-                "Project Status     : Under Development",
-                "Project Timeline   : may 2021 - present"
-            ],
-            "link": {
-                "text": "In Memory Of You",
-                "href": "https://dev.imoy.org/login"
-            }
-        },
-        {
-            "name": "Hostbidable",
-            "achievements": [
-                "Hostbidable is an online property bidding platform where the property owner can sell their property to an appropriate buyer via auction hosted by some host",
-                "Tech Stack         : Javascript,React Native, MongoDB, Express, NodeJS, Docker, AWS, Stripe Gateway, React Native Paper (for App UI), React Strap (for admin panel)",
-                "Supported Platform : Android and IOS",
-                "My Contribution    : Application Frontend from scratch",
-                "Project Status     : Under Development",
-                "Project Timeline   : sep 2021 - present"
-            ]
-        },
-        {
-            "name": "Martcues",
-            "achievements": [
-                "An E-commerce platform where users can buy all types of products including food items",
-                "Tech Stack         : Javascript, React Native, MongoDB, Express, NodeJS, Docker, AWS, Rayzorpay Gateway, Ant Design (for admin panel), Winston",
-                "Supported Platform : Android",
-                "My Contribution    : Mobile App Frontend from scratch",
-                "Project Status     : Under Development",
-                "Project Timeline   : nov 2021 - present"
-            ]
-        },
-        {
-            "name": "Ordio",
-            "achievements": [
-                "A NextJS website with a support of internationalization",
-                "Tech Stack         : Javascript, React JS, Next JS, Bootstrap",
-                "Supported Platform : Web",
-                "My Contribution    : testing code and resolve errors",
-                "Project Status     : Completed",
-                "Project Timeline   : apr 2021 - may 2021"
-            ],
-            "link": {
-                "text": "ordio.com",
-                "href": "https://www.ordio.com/"
-            }
-        },
-        {
-            "name": "Recrugenie",
-            "achievements": [
-                "MERN Stack Website similar to quikr, where users can book professionals like plumber, electrician etc.",
-                "Tech Stack         : Javascript, React JS, Node JS, Express",
-                "Supported Platform : Web",
-                "My Contribution    : Fixing bugs and adding new features in already deployed website",
-                "Project Status     : Completed"
-            ],
-            "link": {
-                "text": "recrugenie.com",
-                "href": "https://www.recrugenie.com/"
-            }
-        },
-        {
-            "name": "Fly High",
-            "achievements": [
-                "An edTech Platform built using Ionic Framework where users can buy courses and take live classes backed by Agora APi",
-                "Tech Stack : Javascript, React JS, Node JS, Express, Agora Live Streaming Service, Rayzorpay Gateway, AWS, Material UI",
-                "Supported Platform : Android",
-                "My Contribution    : App Frontend and integration with Agora IO",
-                "Project Status     : Completed",
-                "Project Timeline   : jan 2021 - apr 2021"
-            ]
-        }
+  "skills": {
+    "primary": [
+      "Javascript",
+      "Node JS",
+      "Mongo DB",
+      "React JS",
+      "Redux",
+      "Next JS",
+      "React Native",
+      "HTML5",
+      "CSS3",
+      "Material UI",
+      "Ant Design",
+      "MERN Stack",
+      "Express JS",
+      "Bootstrap",
+      "Git",
+      "Github",
+      "Good in google search",
+      "Docker",
+      "Firebase"
     ],
-    "wordExperience": [
-        {
-            "position": "Frontend Developer",
-            "company": "Octify Technologies Pvt. Ltd.",
-            "date": {
-                "joining": "12/2020",
-                "leaving": "Present"
-            },
-            "companyDescription": "Octify Technologies is a service based start-up.",
-            "responsibilities": [
-                "Managing team as a Team Leader, ongoing projects as a Team Lead and handling clients",
-                "Provide training to junior developers",
-                "Designing, developing, and testing UI for mobile and web applications",
-                "Development and integration of UX and UI designs that maximize user experience and application usability that matches wireframes",
-                "Translating designs and wireframes into high-quality code",
-                "some other responsibilities related to management"
-            ]
-        }
-    ],
-    "certificates": [
-        {
-            "name": "Certificate of Completion",
-            "description": "MERN STACK Bootcamp from LearnCodeOnline.in"
-        }
-    ],
-    "languages": [
-        {
-            "name": "Hindi",
-            "fluency": "Native or Bilingual Proficiency"
-        },
-        {
-            "name": "English",
-            "fluency": "Full Professional Proficiency"
-        }
-    ],
-    "interests": [
-        "Books",
-        "Tech",
-        "Business",
-        "Music"
-    ],
-    "education": [
-        {
-            "course": "Bachelor of Computer Application",
-            "institute": "Maharshi Dayanand University, Haryana",
-            "date": {
-                "joining": "06/2016",
-                "leaving": "05/2019"
-            },
-            "marks": "66.56%"
-        },
-        {
-            "course": "Senior Secondary Education",
-            "institute": "Govt Boys Ser Sec School , CBSE",
-            "date": {
-                "joining": "04/2015",
-                "leaving": "03/2016"
-            },
-            "marks": "74.3%"
-        }
+    "secondary": [
+      "Flask (Python)",
+      "Python",
+      "Jest",
+      "TypeScript",
+      "PostgreSQL",
+      "PWA",
+      "JIRA",
+      "Some exposure with AWS",
+      "Adobe Suite"
     ]
+  },
+  "projects": [
+    {
+      "name": "Wealth SaGa",
+      "achievements": [
+        "Wealth SaGa is an edTech platform where users can learn about Indian Stock Market",
+        "Tech Stack         : React Native, MongoDB, Express, NodeJS, Docker, AWS EC2, AWS ECR, AWS Amplify, Paytm Payments Gateway, Material UI v4 (for admin panel), Winston, firebase cloud-messaging",
+        "Supported Platform : Android",
+        "My Contribution    : built from scratch except AWS Deployment"
+      ],
+      "link": {
+        "text": "Wealth SaGa",
+        "href": "https://play.google.com/store/apps/details?id=com.ivit.sourav.ws&hl=en_IN&gl=US"
+      }
+    },
+    {
+      "name": "TM Profile Tree",
+      "achievements": [
+        "TM Profile Tree provides Digital Business Cards for Entrepreneurs and Marketers to help them stay connected online",
+        "Tech Stack         : React, MongoDB, Express, NodeJS, Docker, AWS EC2, AWS ECR, AWS Amplify, Razorpay, Material UI v5 (for admin panel), Winston, Redux SaGa",
+        "Supported Platform : Web",
+        "My Contribution    : built from scratch except AWS Deployment",
+        "Status             : Under Development"
+      ]
+    },
+    {
+      "name": "In Memory Of You",
+      "achievements": [
+        "A Social Media Platform to organize funeral Events",
+        "Supported Platform : Web",
+        "My Contribution    : Developing frontend components"
+      ],
+      "link": {
+        "text": "In Memory Of You",
+        "href": "https://dev.imoy.org/login"
+      }
+    },
+    {
+      "name": "Hostbidable",
+      "achievements": [
+        "Hostbidable is an online property bidding platform where the property owner can sell their property to an appropriate buyer via auction hosted by some host",
+        "Tech Stack         : Javascript,React Native, MongoDB, Express, NodeJS, Docker, AWS, Stripe Gateway, React Native Paper (for App UI), React Strap (for admin panel)",
+        "Supported Platform : Android and IOS",
+        "My Contribution    : Application Frontend from scratch"
+      ]
+    },
+    {
+      "name": "Martcues",
+      "achievements": [
+        "An E-commerce platform where users can buy all types of products including food items",
+        "Tech Stack         : Javascript, React Native, MongoDB, Express, NodeJS, Docker, AWS, Rayzorpay Gateway, Ant Design (for admin panel), Winston",
+        "Supported Platform : Android",
+        "My Contribution    : Mobile App Frontend from scratch"
+      ]
+    },
+    {
+      "name": "Ordio",
+      "achievements": [
+        "A NextJS website with a support of internationalization",
+        "Tech Stack         : Javascript, React JS, Next JS, Bootstrap",
+        "Supported Platform : Web",
+        "My Contribution    : testing code and resolve errors"
+      ],
+      "link": {
+        "text": "ordio.com",
+        "href": "https://www.ordio.com/"
+      }
+    },
+    {
+      "name": "Recrugenie",
+      "achievements": [
+        "MERN Stack Website similar to quikr, where users can book professionals like plumber, electrician etc.",
+        "Tech Stack         : Javascript, React JS, Node JS, Express",
+        "Supported Platform : Web",
+        "My Contribution    : Fixing bugs and adding new features in already deployed website"
+      ],
+      "link": {
+        "text": "recrugenie.com",
+        "href": "https://www.recrugenie.com/"
+      }
+    }
+  ],
+  "wordExperience": [
+    {
+      "position": "Software Engineer",
+      "company": "Cerebry Pte. Ltd.",
+      "date": {
+        "joining": "Mar 2022",
+        "leaving": "present"
+      },
+      "companyDescription": "AI - Driven Adaptive Maths Practice Platform",
+      "responsibilities": [
+        "Work with product managers and UI/UX designers to bridge the gap between graphical design and technical implementation, taking an active role on both sides.",
+        "Translate the UI/UX design wireframes to actual code and thus develop and ship new user-facing features.",
+        "Take responsibility for code quality, performance and robustness.",
+        "Equip implementations for tracking applications such as Google Analytics, Google Tag Manager, hotjar and others."
+      ]
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Octify Technologies Pvt. Ltd.",
+      "date": {
+        "joining": "Dec 2020",
+        "leaving": "Feb 2022"
+      },
+      "companyDescription": "Octify Technologies is a service based start-up.",
+      "responsibilities": [
+        "Managing team as a Team Leader, ongoing projects as a Team Lead and handling clients",
+        "Provide training to junior developers",
+        "Designing, developing, and testing UI for mobile and web applications",
+        "Development and integration of UX and UI designs that maximize user experience and application usability that matches wireframes",
+        "Translating designs and wireframes into high-quality code"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate of Completion",
+      "description": "MERN STACK Bootcamp from LearnCodeOnline.in"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Hindi",
+      "fluency": "Native or Bilingual Proficiency"
+    },
+    {
+      "name": "English",
+      "fluency": "Full Professional Proficiency"
+    }
+  ],
+  "interests": ["Books", "Tech", "Business", "Music"],
+  "education": [
+    {
+      "course": "Bachelor of Computer Application",
+      "institute": "Maharshi Dayanand University, Haryana",
+      "date": {
+        "joining": "06/2016",
+        "leaving": "05/2019"
+      },
+      "marks": "66.56%"
+    },
+    {
+      "course": "Senior Secondary Education",
+      "institute": "Govt Boys Ser Sec School , CBSE",
+      "date": {
+        "joining": "04/2015",
+        "leaving": "03/2016"
+      },
+      "marks": "74.3%"
+    }
+  ]
 }
