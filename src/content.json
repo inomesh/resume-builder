@@ -35,6 +35,16 @@
   },
   "projects": [
     {
+      "name": "NIC",
+      "achievements": [
+        "Developed two access control portals to accept access request from other govt department to create a develop portal for them. By using that develper portal those departments can access all the IBM apis purchased by NIC.",
+        "Tech Stack         : React, PostgreSQL, Express, NodeJS, Material UI v4",
+        "Supported Platform : Web",
+        "My Contribution    : built from scratch",
+        "Private Govt. Project"
+      ]
+    },
+    {
       "name": "Wealth SaGa",
       "achievements": [
         "Wealth SaGa is an edTech platform where users can learn about Indian Stock Market",
@@ -75,7 +85,7 @@
         "Hostbidable is an online property bidding platform where the property owner can sell their property to an appropriate buyer via auction hosted by some host",
         "Tech Stack         : Javascript,React Native, MongoDB, Express, NodeJS, Docker, AWS, Stripe Gateway, React Native Paper (for App UI), React Strap (for admin panel)",
         "Supported Platform : Android and IOS",
-        "My Contribution    : Application Frontend from scratch"
+        "My Contribution    : Built from scratch"
       ]
     },
     {
@@ -88,16 +98,16 @@
       ]
     },
     {
-      "name": "Ordio",
+      "name": "Propliv",
       "achievements": [
-        "A NextJS website with a support of internationalization",
-        "Tech Stack         : Javascript, React JS, Next JS, Bootstrap",
-        "Supported Platform : Web",
-        "My Contribution    : testing code and resolve errors"
+        "Propliv is a property listing application where user can buy a property. This application is divided into 3 parts (Propliv Agent, Propliv Security, Propliv Seller)",
+        "Tech Stack         : Javascript, React Native, php, firebase cloud messaging, AWS",
+        "Supported Platform : Android",
+        "My Contribution    : Frontend Development"
       ],
       "link": {
-        "text": "ordio.com",
-        "href": "https://www.ordio.com/"
+        "text": "Propliv",
+        "href": "https://play.google.com/store/apps/details?id=com.propliv.agent&hl=en&gl=US"
       }
     },
     {
@@ -117,10 +127,10 @@
   "wordExperience": [
     {
       "position": "Software Engineer",
-      "company": "Cerebry Pte. Ltd.",
+      "company": "Iprep Solutions Pvt Ltd aka Cerebry Pte. Ltd.",
       "date": {
         "joining": "Mar 2022",
-        "leaving": "present"
+        "leaving": "June 2022"
       },
       "companyDescription": "AI - Driven Adaptive Maths Practice Platform",
       "responsibilities": [
@@ -132,7 +142,7 @@
     },
     {
       "position": "Frontend Developer",
-      "company": "Octify Technologies Pvt. Ltd.",
+      "company": "Octify Technologies",
       "date": {
         "joining": "Dec 2020",
         "leaving": "Feb 2022"
@@ -144,6 +154,21 @@
         "Designing, developing, and testing UI for mobile and web applications",
         "Development and integration of UX and UI designs that maximize user experience and application usability that matches wireframes",
         "Translating designs and wireframes into high-quality code"
+      ]
+    },
+    {
+      "position": "Full Stack Developer",
+      "company": "Freelancer",
+      "date": {
+        "joining": "Mar 2019",
+        "leaving": "Present"
+      },
+      "companyDescription": "",
+      "responsibilities": [
+        "Understanding Client Requirements and converts it into running application",
+        "Delivering highly optimized code in a short time",
+        "Providing maintenance if any bug encounters or in case of new feature addons",
+        "Maintaining client relationship for future work"
       ]
     }
   ],

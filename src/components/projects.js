@@ -18,7 +18,7 @@ const Projects = () => (
         <Grid item xs={12} mb={1} key={i}>
           {i === 3 && (
             <Fragment>
-              {new Array(4).fill("").map((_, i) => (
+              {new Array(10).fill("").map((_, i) => (
                 <br key={i} />
               ))}
             </Fragment>

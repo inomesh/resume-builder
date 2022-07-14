@@ -6,7 +6,7 @@ import ListItem from "./ui-components/listItem";
 import Content from "../content.json";
 
 const WorkExperience = () => (
-  <CardContent sx={{ padding: "25px", marginBottom: "150px" }}>
+  <CardContent sx={{ padding: "25px" }}>
     <Grid item xs={12}>
       <Box className="iconContainer" width={"100%"} mb={2}>
         <WorkOutlineIcon />
@@ -22,6 +22,13 @@ const WorkExperience = () => (
         i
       ) => (
         <Fragment key={i}>
+          {i != 0 && i % 2 === 0 && (
+            <Fragment>
+              {new Array(16).fill("").map((_, i) => (
+                <br key={i} />
+              ))}
+            </Fragment>
+          )}
           <Grid container>
             <Grid item xs={12}>
               <Typography color="white" variant={"h5"} fontWeight={"bold"}>
