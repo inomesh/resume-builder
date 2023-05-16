@@ -30,20 +30,12 @@
       "PWA",
       "JIRA",
       "Some exposure with AWS",
-      "Adobe Suite"
+      "Adobe Suite",
+      "Jira",
+      "AWS"
     ]
   },
   "projects": [
-    {
-      "name": "NIC",
-      "achievements": [
-        "Developed two access control portals to accept access request from other govt department to create a develop portal for them. By using that develper portal those departments can access all the IBM apis purchased by NIC.",
-        "Tech Stack         : React, PostgreSQL, Express, NodeJS, Material UI v4",
-        "Supported Platform : Web",
-        "My Contribution    : built from scratch",
-        "Private Govt. Project"
-      ]
-    },
     {
       "name": "Wealth SaGa",
       "achievements": [
@@ -72,30 +64,13 @@
       "achievements": [
         "A Social Media Platform to organize funeral Events",
         "Supported Platform : Web",
+        "Tech Stack         : React, MongoDB,  NodeJS, Docker, AWS EC2, AWS ECR, AWS Amplify, Stripe, Winston, Redux Thunk",
         "My Contribution    : Developing frontend components"
       ],
       "link": {
         "text": "In Memory Of You",
         "href": "https://dev.imoy.org/login"
       }
-    },
-    {
-      "name": "Hostbidable",
-      "achievements": [
-        "Hostbidable is an online property bidding platform where the property owner can sell their property to an appropriate buyer via auction hosted by some host",
-        "Tech Stack         : Javascript,React Native, MongoDB, Express, NodeJS, Docker, AWS, Stripe Gateway, React Native Paper (for App UI), React Strap (for admin panel)",
-        "Supported Platform : Android and IOS",
-        "My Contribution    : Built from scratch"
-      ]
-    },
-    {
-      "name": "Martcues",
-      "achievements": [
-        "An E-commerce platform where users can buy all types of products including food items",
-        "Tech Stack         : Javascript, React Native, MongoDB, Express, NodeJS, Docker, AWS, Rayzorpay Gateway, Ant Design (for admin panel), Winston",
-        "Supported Platform : Android",
-        "My Contribution    : Mobile App Frontend from scratch"
-      ]
     },
     {
       "name": "Propliv",
@@ -122,9 +97,49 @@
         "text": "recrugenie.com",
         "href": "https://www.recrugenie.com/"
       }
+    },
+    {
+      "name": "Miscellaneous",
+      "achievements": [
+        { "label": "nordsta.com", "uri": "https://nordsta.com/" },
+        { "label": "ordio.com", "uri": "https://www.ordio.com/" },
+        { "label": "skillup.online", "uri": "https://in.skillup.online/" },
+        { "label": "wealthsaga.org", "uri": "https://www.wealthsaga.org/" }
+      ]
     }
   ],
   "wordExperience": [
+    {
+      "position": "Senior Full Stack Developer",
+      "company": "Essence Web Technologies",
+      "date": {
+        "joining": "Feb 2023",
+        "leaving": "Present"
+      },
+      "companyDescription": "Builing a logistics software to serve business clients.",
+      "responsibilities": [
+        "Taking a lead role in software development projects, providing guidance and expertise to the development team, and making critical technical decisions.",
+        "Contributing to the design and architecture of complex software systems, ensuring scalability, performance, and maintainability.",
+        "Collaborating with project managers, estimating timelines, and actively contributing to project planning and execution.",
+        "Possessing advanced skills in both front-end and back-end development, with a strong understanding of web technologies and frameworks.",
+        "Participating in code reviews, conducting thorough testing, and maintaining code quality and standards."
+      ]
+    },
+    {
+      "position": "Software Engineer SDE-II",
+      "company": "Tilicho Labs Ltd.",
+      "date": {
+        "joining": "June 2022",
+        "leaving": "Present"
+      },
+      "companyDescription": "Provide IT Services",
+      "responsibilities": [
+        "Writing high-quality code for software applications and systems.",
+        "Testing and debugging software to identify and fix issues.",
+        "Collaborating with cross-functional teams to solve technical problems.",
+        "Assisting in mentoring and guiding junior engineers."
+      ]
+    },
     {
       "position": "Software Engineer",
       "company": "Iprep Solutions Pvt Ltd aka Cerebry Pte. Ltd.",
@@ -144,31 +159,16 @@
       "position": "Frontend Developer",
       "company": "Octify Technologies",
       "date": {
-        "joining": "Dec 2020",
+        "joining": "Dec 2019",
         "leaving": "Feb 2022"
       },
-      "companyDescription": "Octify Technologies is a service based start-up.",
+      "companyDescription": "Octify Technologies was an IT-Service company",
       "responsibilities": [
         "Managing team as a Team Leader, ongoing projects as a Team Lead and handling clients",
         "Provide training to junior developers",
         "Designing, developing, and testing UI for mobile and web applications",
         "Development and integration of UX and UI designs that maximize user experience and application usability that matches wireframes",
         "Translating designs and wireframes into high-quality code"
-      ]
-    },
-    {
-      "position": "Full Stack Developer",
-      "company": "Freelancer",
-      "date": {
-        "joining": "Mar 2019",
-        "leaving": "Present"
-      },
-      "companyDescription": "",
-      "responsibilities": [
-        "Understanding Client Requirements and converts it into running application",
-        "Delivering highly optimized code in a short time",
-        "Providing maintenance if any bug encounters or in case of new feature addons",
-        "Maintaining client relationship for future work"
       ]
     }
   ],

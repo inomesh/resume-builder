@@ -1,11 +1,11 @@
 import React, { Fragment } from "react";
-import { Box, Grid, Typography } from "@mui/material";
+import { Box, Grid, Stack, Typography } from "@mui/material";
 import AssignmentIcon from "@mui/icons-material/Assignment";
 import Content from "../content.json";
 import ListItem from "./ui-components/listItem";
 
 const Projects = () => (
-  <Grid item xs={12} sx={{ mb: 5 }}>
+  <Grid item xs={12} sx={{ mb: 10 }}>
     <Box className="iconContainer" mb={2}>
       <AssignmentIcon className="filledIcon" />
       <Typography variant={"h5"} fontWeight="bold">
@@ -30,9 +30,12 @@ const Projects = () => (
             </Typography>
           </Box>
 
-          {project.achievements.map((text, i) => (
-            <ListItem {...{ text }} />
-          ))}
+          {project.achievements.map((_, i) => {
+            if (typeof _ === "object") {
+              return <ListItem {...{ link: { href: _.uri, text: _.label } }} />;
+            }
+            return <ListItem {...{ text: _ }} />;
+          })}
 
           {project.link && <ListItem {...{ link: project.link }} />}
         </Grid>

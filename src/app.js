@@ -110,7 +110,7 @@ class App extends React.Component {
 
         {/* second section */}
         <Grid item xs={12}>
-          <Grid container spacing={4}>
+          <Grid container spacing={5}>
             <Grid item xs={7}>
               <Grid item xs={12}>
                 <Skills />
@@ -129,7 +129,7 @@ class App extends React.Component {
               <Card elevation={0} style={{ height: "150%" }}>
                 <WorkExperience />
 
-                <Certificates />
+                {/* <Certificates /> */}
 
                 <Languages />
 
